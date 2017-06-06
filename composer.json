@@ -25,5 +25,6 @@
     "files": [
       "autoload.php"
     ]
-  }
+  },
+  "minimum-stability": "beta"
 }
